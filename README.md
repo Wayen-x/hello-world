@@ -1,2 +1,2 @@
 # hello-world
-cut and smart
+cute and smart
